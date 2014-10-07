@@ -1,0 +1,25 @@
+From 480a324d3e6a86b4b96c1f2d674aefeca6f02b95 Mon Sep 17 00:00:00 2001
+From: sreesurendran <sree.surendran55@gmail.com>
+Date: Tue, 7 Oct 2014 00:55:58 -0500
+Subject: [PATCH] Third Commit
+
+---
+ HelloWorld.java | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/HelloWorld.java b/HelloWorld.java
+index b316ea1..0a9b78c 100644
+--- a/HelloWorld.java
++++ b/HelloWorld.java
+@@ -1,7 +1,7 @@
+ 
+ public class HelloWorld {
+ 	public static void main( String [] args){
+-		System.out.println("Hello World!");
++		System.out.println("Hallo Welt!");
+ 	}
+ 
+ }
+-- 
+1.9.3 (Apple Git-50)
+
